@@ -10,7 +10,7 @@ I created MacTubes so I could have a standalone PWA-style YouTube app without ha
 
 ## Download
 
-[Download MacTubes](https://github.com/kjoedion/mactubes/releases/download/1.0/MacTubes.app)
+[Download MacTubes](https://github.com/kjoedion/mactubes/releases/download/1.0/MacTubes.app.zip)
 
 ## MacTunes
 
